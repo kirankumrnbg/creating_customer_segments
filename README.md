@@ -1,2 +1,2 @@
-# creating_customer-_segments
+# creating_customer_segments
 Unsupervised Machine Learning Clustering Project
